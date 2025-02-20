@@ -1,0 +1,45 @@
+.body {     
+
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+
+    color: #333;
+    text-align: center;
+    border-bottom: 2px solid #555;
+    text-shadow: 0 0 10px rgb(151, 57, 88);
+    padding-bottom: 10px;
+}
+
+p, li {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+b {
+    color: #222;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
